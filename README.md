@@ -1,6 +1,7 @@
 ## Good Day, Everyone! 🤗
 
 👋 Hi! I'm **Ella Mae** 🪼
+
 I'm currently building a **Diary with Memories** application - a personal project focused on capturing meaningful moments.
 The app organizes **pictures, videos, and recordings** into folders **by day, month, and year**.
 It also includes a feature that **shows memories from past years**.
@@ -17,11 +18,11 @@ My goal is to make storing and accessing these precious memories easier, so that
 ### 🛠 Technologies & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
@@ -30,7 +31,8 @@ My goal is to make storing and accessing these precious memories easier, so that
 - Experience with **frontend, backend, and database development**
 
 ### 🔗 Feel free to reach out
-- Facebook: facebook.com/username.ellamae
+- Facebook: [username.ellamae](https://www.facebook.com/username.ellamae) 
+
 
 ✨ Thanks for visiting my profile!
 
