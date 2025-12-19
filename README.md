@@ -1,14 +1,11 @@
-## Good Day, Everyone! 🤗
+## Good Day, Everyone 🤗
 
-👋 Hi! I'm **Ella Mae** 🪼
+👋 Hi ! I'm **Ella Mae** 🪼
 
-I'm currently building a **Diary with Memories** application - a personal project focused on capturing meaningful moments.
-The app organizes **pictures, videos, and recordings** into folders **by day, month, and year**.
-It also includes a feature that **shows memories from past years**.
+I'm currently building **Diary with Memories**, a personal project for capturing meaningful moments.  
+The app organizes **pictures, videos, and recordings** by day, month, and year, and includes a feature that **shows memories from past years**.  
 
-I love being reminded of how wonderful our life journey is. 
-It makes me feel grateful for the past and hopeful for the future. 
-My goal is to make storing and accessing these precious memories easier, so that people can always be reminded to celebrate their growth and realize how wonderful their life is.
+I love being reminded of how wonderful our life journey is, and want to make it easy for people to **store, access, and celebrate their precious memories**. I hope this app will allow people to feel grateful for the past and hopeful for the future.
 
 ### 🚀 Current Project
 - 📝 **Diary with Memories**
@@ -34,19 +31,5 @@ My goal is to make storing and accessing these precious memories easier, so that
 - Facebook: [username.ellamae](https://www.facebook.com/username.ellamae) 
 
 
-✨ Thanks for visiting my profile!
+✨ Thanks for visiting my profile !
 
-<!--
-**ellamae-it/ellamae-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
