@@ -16,7 +16,7 @@
 - Experience with **frontend, backend, and database development**
 
 ### 🔗 Feel free to reach out
-- Facebook: [username.ellamae](https://www.facebook.com/username.ellamae) 
+- Facebook: [라미](https://www.facebook.com/llwel) 
 
 
 ✨ Thanks for visiting my profile !
